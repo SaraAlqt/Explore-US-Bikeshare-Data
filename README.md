@@ -25,9 +25,13 @@ What are the counts of each user type?
 What are the counts of gender?
 What is the earliest birth year (when the oldest person was born), most recent birth year, and most common birth year?
 ## script
-For interactive experience, I wrote a script that took raw input in the terminal to present the statistics. 
+For the interactive experience, I wrote a script that took raw input from the terminal to present the statistics. 
 
-## reslut
+<img width="634" alt="5" src="https://github.com/SaraAlqt/Explore-US-Bikeshare-Data/assets/141185254/c84e7b98-96d6-4e59-b49e-677d217c3743">
 
-screenshots show the results after requesting for information in Chicago for the month of January on Sunday:
+## result
+screenshots show the results after requesting information in Chicago for the month of January on Sunday:
+
+<img width="592" alt="6" src="https://github.com/SaraAlqt/Explore-US-Bikeshare-Data/assets/141185254/ae0363e3-4a7a-4ef9-a875-9df40a707ffa">
+
 
