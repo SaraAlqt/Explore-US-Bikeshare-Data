@@ -34,4 +34,10 @@ screenshots show the results after requesting information in Chicago for the mon
 
 <img width="592" alt="6" src="https://github.com/SaraAlqt/Explore-US-Bikeshare-Data/assets/141185254/ae0363e3-4a7a-4ef9-a875-9df40a707ffa">
 
+<img width="370" alt="7" src="https://github.com/SaraAlqt/Explore-US-Bikeshare-Data/assets/141185254/c2a989c0-2ef9-4056-8b8f-bdfd4bbab75c">
+
+<img width="623" alt="8" src="https://github.com/SaraAlqt/Explore-US-Bikeshare-Data/assets/141185254/7648cd26-f5d1-4ec2-8be5-d06924b1b8c3">
+
+
+
 
